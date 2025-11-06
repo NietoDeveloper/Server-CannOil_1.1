@@ -35,7 +35,8 @@ Start the server:npm start
 API runs on http://localhost:3000.
 Endpoints for products, users, and orders available.
 
-Contributing
+## Contributing
+
 Fork the repo and submit a pull request with your changes.
 License
 MIT License
