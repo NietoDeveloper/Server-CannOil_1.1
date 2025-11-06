@@ -18,7 +18,8 @@ Database integration
 
 ## Installation
 
-Clone the repository:git clone https://github.com/NietoDeveloper/Cannoil-Ejemplo1.git
+Clone the repository:git clone 
+<>
 
 
 Navigate to the backend directory:cd Cannoil-Ejemplo1/server
