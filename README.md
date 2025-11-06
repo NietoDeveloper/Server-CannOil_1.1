@@ -38,7 +38,9 @@ Endpoints for products, users, and orders available.
 ## Contributing
 
 Fork the repo and submit a pull request with your changes.
-License
-MIT License
-Contact
+
+## License
+
+MIT 
+
 Created by Manuel Nieto, Software Developer. Reach out via GitHub.
