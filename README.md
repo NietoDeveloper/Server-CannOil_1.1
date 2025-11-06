@@ -43,4 +43,4 @@ Fork the repo and submit a pull request with your changes.
 
 MIT 
 
-### Created by Manuel Nieto, Software Developer. Reach out via GitHub.
+### Created by Manuel Nieto, NietoDeveloper. Reach out via GitHub.
