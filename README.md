@@ -9,7 +9,7 @@ Backend for Cannoil E-Commerce, a model application for an online health product
 Node.js: Runtime environment
 Express: Web framework for API development
 
-Features
+## Features
 
 RESTful API for product management
 User authentication and authorization
