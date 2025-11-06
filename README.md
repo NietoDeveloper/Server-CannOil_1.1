@@ -30,9 +30,7 @@ Install dependencies:npm install
 
 Start the server:npm start
 
-
-
-Usage
+## Usage
 
 API runs on http://localhost:3000.
 Endpoints for products, users, and orders available.
