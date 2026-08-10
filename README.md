@@ -9,11 +9,6 @@ Backend for Cannoil E-Commerce, a model application for an online health product
 Clone the repository:git clone 
 <https://github.com/NietoDeveloper/Server-CannOil_1.1>
 
-## Usage
-
-API runs on http://localhost:3000.
-Endpoints for products, users, and orders available.
-
 ## Contributing
 
 Fork the repo and submit a pull request with your changes.
