@@ -4,13 +4,6 @@
 
 Backend for Cannoil E-Commerce, a model application for an online health products store. Built by Manuel Nieto, Software Developer, in 2024.
 
-## Features
-
-RESTful API for product management
-User authentication and authorization
-Order processing
-Database integration
-
 ## Installation
 
 Clone the repository:git clone 
