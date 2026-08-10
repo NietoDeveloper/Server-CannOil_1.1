@@ -9,15 +9,6 @@ Backend for Cannoil E-Commerce, a model application for an online health product
 Clone the repository:git clone 
 <https://github.com/NietoDeveloper/Server-CannOil_1.1>
 
-
-Navigate to the backend directory:cd Cannoil-Ejemplo1/server
-
-
-Install dependencies:npm install
-
-
-Start the server:npm start
-
 ## Usage
 
 API runs on http://localhost:3000.
