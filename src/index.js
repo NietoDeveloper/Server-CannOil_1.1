@@ -6,7 +6,6 @@ const prisma = new PrismaClient();
 const apiRoutes = require('./routes/api');
 const cors = require('cors')
 
-
 app.use(cors({
     origin: 'http://localhost:5173'
 }));
